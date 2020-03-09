@@ -1,3 +1,5 @@
+import java.util.Date;
+
 public class Timer {
     private long start;
     private long end;
@@ -11,6 +13,11 @@ public class Timer {
         System.out.println(String.valueOf(start));
     }
 
+    public Timer(long start){
+        this.start = start;
+        System.out.println(String.valueOf(start));
+    }
+
     void stop(){
        if(this.end <= 0) {
            this.end = System.currentTimeMillis();
@@ -18,10 +25,16 @@ public class Timer {
        }
     }
 
+    void stop(long stop){
+        if (this.end <= 0){
+            this.end = stop;
+            System.out.println(String.valueOf(end));
+        }
+    }
 
     public String toString(){
         if(start > end){
-            return "No se puede establecer un tiempo porque el timer aun no se ha detenido";
+            throw new RuntimeException("No se puede establecer un tiempo certero");
         }else {
             days = (end - start) / 86400000;
             hours = ((end - start) % 86400000) / 3600000;

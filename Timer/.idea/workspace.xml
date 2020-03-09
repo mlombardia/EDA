@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89861b29-4f06-49cc-a6f6-71567a2a84e7" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="89861b29-4f06-49cc-a6f6-71567a2a84e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Timer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TimerTesterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TimerTesterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Timer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Timer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TimerTesterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TimerTesterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Timer2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Timer2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,51 +20,6 @@
   <component name="FavoritesManager">
     <favorites_list name="Timer" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Timer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Timer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-              <folding>
-                <element signature="e#1187#1188#0" expanded="true" />
-                <element signature="e#1220#1221#0" expanded="true" />
-                <element signature="e#1247#1248#0" expanded="true" />
-                <element signature="e#1278#1279#0" expanded="true" />
-                <element signature="e#1306#1307#0" expanded="true" />
-                <element signature="e#1338#1339#0" expanded="true" />
-                <element signature="e#1367#1368#0" expanded="true" />
-                <element signature="e#1400#1401#0" expanded="true" />
-                <element signature="e#1431#1432#0" expanded="true" />
-                <element signature="e#1466#1467#0" expanded="true" />
-                <element signature="e#1497#1498#0" expanded="true" />
-                <element signature="e#1532#1533#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TimerTesterTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TimerTesterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TimerTester.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TimerTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -68,20 +27,8 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/TimerTester.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Timer.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TimerTesterTest.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -89,36 +36,6 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Timer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Timer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Timer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Timer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="exec" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -129,45 +46,6 @@
     <option name="height" value="735" />
   </component>
   <component name="ProjectId" id="1YZbKa0SXPdRm11f1gDgbwjMF8E" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Timer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Timer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Timer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Timer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Timer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Timer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Timer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Timer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -179,7 +57,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Timer3" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -201,90 +79,60 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.TimerTesterTest">
+  <component name="RunManager" selected="JUnit.TimerTesterTest.checkTimeUnits">
     <configuration name="TimerTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TimerTester" />
       <module name="Timer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="TimerTesterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Timer" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TimerTesterTest" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="TimerTesterTest.checkLimits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Timer" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TimerTesterTest" />
       <option name="METHOD_NAME" value="checkLimits" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="TimerTesterTest.checkStillGoing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Timer" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TimerTesterTest" />
       <option name="METHOD_NAME" value="checkStillGoing" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="TimerTesterTest.checkTimeUnits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Timer" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TimerTesterTest" />
       <option name="METHOD_NAME" value="checkTimeUnits" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="Application.TimerTester" />
@@ -295,10 +143,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TimerTesterTest" />
-        <item itemvalue="JUnit.TimerTesterTest.checkStillGoing" />
         <item itemvalue="JUnit.TimerTesterTest.checkTimeUnits" />
         <item itemvalue="JUnit.TimerTesterTest.checkLimits" />
+        <item itemvalue="JUnit.TimerTesterTest" />
+        <item itemvalue="JUnit.TimerTesterTest.checkStillGoing" />
         <item itemvalue="Application.TimerTester" />
       </list>
     </recent_temporary>
@@ -316,109 +164,43 @@
       <workItem from="1583153005094" duration="1886000" />
       <workItem from="1583328059474" duration="1206000" />
       <workItem from="1583705128896" duration="4714000" />
+      <workItem from="1583723272086" duration="30000" />
+      <workItem from="1583751791458" duration="2528000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="TimerTesterTest - 2020.03.08 at 19h 37m 11s.xml">
-      <configuration name="TimerTesterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimerTesterTest - 2020.03.08 at 19h 42m 27s.xml">
-      <configuration name="TimerTesterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimerTesterTest - 2020.03.08 at 19h 42m 45s.xml">
-      <configuration name="TimerTesterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimerTesterTest_checkLimits - 2020.03.08 at 19h 54m 23s.xml">
-      <configuration name="TimerTesterTest.checkLimits" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimerTesterTest_checkLimits - 2020.03.08 at 19h 58m 42s.xml">
-      <configuration name="TimerTesterTest.checkLimits" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimerTesterTest_checkLimits - 2020.03.08 at 19h 59m 15s.xml">
-      <configuration name="TimerTesterTest.checkLimits" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimerTesterTest_checkTimeUnits - 2020.03.08 at 20h 13m 45s.xml">
-      <configuration name="TimerTesterTest.checkTimeUnits" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimerTesterTest_checkStillGoing - 2020.03.08 at 20h 22m 25s.xml">
-      <configuration name="TimerTesterTest.checkStillGoing" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimerTesterTest_checkStillGoing - 2020.03.08 at 20h 24m 32s.xml">
-      <configuration name="TimerTesterTest.checkStillGoing" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimerTesterTest - 2020.03.08 at 20h 26m 13s.xml">
-      <configuration name="TimerTesterTest" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4714000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.13333334" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32943678" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49946865" visible="true" weight="0.25" />
-      <window_info anchor="right" id="Database" />
-      <window_info id="Learn" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" sideWeight="0.5005314" side_tool="true" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
     <state x="180" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583329025847">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="180" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1301.744@65.24.1301.744" timestamp="1583329025847" />
-    <state x="503" y="141" key="FileChooserDialogImpl" timestamp="1583154562376">
+    <state x="503" y="141" key="FileChooserDialogImpl" timestamp="1583754315845">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="503" y="141" key="FileChooserDialogImpl/65.24.1301.744@65.24.1301.744" timestamp="1583154562376" />
-    <state width="1255" height="193" key="GridCell.Tab.0.bottom" timestamp="1583329265187">
+    <state x="503" y="141" key="FileChooserDialogImpl/65.24.1301.744@65.24.1301.744" timestamp="1583754315845" />
+    <state width="1255" height="193" key="GridCell.Tab.0.bottom" timestamp="1583754319468">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1255" height="193" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1583329265187" />
-    <state width="1255" height="193" key="GridCell.Tab.0.center" timestamp="1583329265186">
+    <state width="1255" height="193" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1583754319468" />
+    <state width="1255" height="193" key="GridCell.Tab.0.center" timestamp="1583754319466">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1255" height="193" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1583329265186" />
-    <state width="1255" height="193" key="GridCell.Tab.0.left" timestamp="1583329265185">
+    <state width="1255" height="193" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1583754319466" />
+    <state width="1255" height="193" key="GridCell.Tab.0.left" timestamp="1583754319465">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1255" height="193" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1583329265185" />
-    <state width="1255" height="193" key="GridCell.Tab.0.right" timestamp="1583329265186">
+    <state width="1255" height="193" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1583754319465" />
+    <state width="1255" height="193" key="GridCell.Tab.0.right" timestamp="1583754319467">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1255" height="193" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1583329265186" />
+    <state width="1255" height="193" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1583754319467" />
+    <state x="376" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1583751803985">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="376" y="211" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1583751803985" />
     <state x="494" y="73" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583328488672">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
@@ -427,46 +209,6 @@
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="65" y="41" key="new project wizard/65.24.1301.744@65.24.1301.744" timestamp="1583155407846" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Timer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding>
-            <element signature="e#1187#1188#0" expanded="true" />
-            <element signature="e#1220#1221#0" expanded="true" />
-            <element signature="e#1247#1248#0" expanded="true" />
-            <element signature="e#1278#1279#0" expanded="true" />
-            <element signature="e#1306#1307#0" expanded="true" />
-            <element signature="e#1338#1339#0" expanded="true" />
-            <element signature="e#1367#1368#0" expanded="true" />
-            <element signature="e#1400#1401#0" expanded="true" />
-            <element signature="e#1431#1432#0" expanded="true" />
-            <element signature="e#1466#1467#0" expanded="true" />
-            <element signature="e#1497#1498#0" expanded="true" />
-            <element signature="e#1532#1533#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TimerTesterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TimerTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>

@@ -19,8 +19,9 @@ class TimerTesterTest {
     void checkLimits() throws InterruptedException{
         Timer t = new Timer();
         TimeUnit.SECONDS.sleep(1);
-        assertEquals("No se puede establecer un tiempo porque el timer aun no se ha detenido", t.toString());
-        System.out.println(t);
+        assertThrows(RuntimeException.class, ()->{
+           System.out.println(t);
+        });
         t.stop();
     }
 
