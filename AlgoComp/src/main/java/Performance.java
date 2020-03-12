@@ -1,7 +1,7 @@
 
 public class Performance {
 
-    public static final int N = 505000000;
+    public static final int N = 600000000;
 
     public static void main(String[] args) {
         // generate array
